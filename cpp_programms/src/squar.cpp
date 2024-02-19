@@ -15,7 +15,7 @@ main ()
         }
     }
   std::cout << std::fixed << std::setprecision (20) << summ
-            << std::endl; // 3.14159264858979460442
+            << std::endl; // 3.1415926 4858979460442
 
   return 0;
 }
