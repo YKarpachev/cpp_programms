@@ -1,0 +1,36 @@
+cp /usr/include/sys/io.h ~/equipment && \
+mkdir ~/ski.plases && \
+mv ~/equipment ~/ski.plases && \
+mv ~/ski.plases/equipment ~/ski.plases/equiplist && \
+touch ~/abc1 && cp ~/abc1 ~/ski.plases/equiplist2 && \
+mkdir ~/ski.plases/equipment && \
+mv ~/ski.plases/equiplist ~/ski.plases/equiplist2 ~/ski.plases/equipment && \
+mkdir ~/newdir && mv ~/newdir ~/ski.plases/plans
+
+
+
+chmod u=rwx,g=rx,o=rx australia && \
+chmod u=rwx,g=x,o=x play && \
+chmod a=rx my_os && \
+chmod ug=rw,o=r feathers
+
+
+
+cat /etc/password && \
+cp ~/feathers ~/file.old && \
+mv ~/file.old ~/play && \
+cp -r ~/play ~/fun && \
+mv ~/fun ~/play/games && \
+chmod u-r ~/feathers && \
+cat ~/feathers && \
+cp ~/feathers ~/feathers_copy && \
+chmod u+r ~/feathers && \
+chmod u-x ~/play && \
+cd ~/play && \
+chmod u+x ~/play
+
+
+man mount && \
+man fsck && \
+man mkfs && \
+man kill
